@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32239" started-at="2017-12-19T12:35:48Z" finished-at="2017-12-19T12:36:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32239" started-at="2017-12-19T12:35:48Z" finished-at="2017-12-19T12:36:21Z">
+      <class name="com.assignment4rth.ShoppingNG">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.assignment4rth.ShoppingNG@44c8afef]" name="launchBrowser" is-config="true" duration-ms="10136" started-at="2017-12-19T18:05:48Z" finished-at="2017-12-19T18:05:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.assignment4rth.ShoppingNG@44c8afef]" name="login" duration-ms="3756" started-at="2017-12-19T18:05:59Z" finished-at="2017-12-19T18:06:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="selectDress()[pri:1, instance:com.assignment4rth.ShoppingNG@44c8afef]" name="selectDress" duration-ms="9178" started-at="2017-12-19T18:06:02Z" finished-at="2017-12-19T18:06:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectDress -->
+        <test-method status="PASS" signature="addToCart()[pri:2, instance:com.assignment4rth.ShoppingNG@44c8afef]" name="addToCart" duration-ms="4309" started-at="2017-12-19T18:06:12Z" finished-at="2017-12-19T18:06:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="goToAddress()[pri:3, instance:com.assignment4rth.ShoppingNG@44c8afef]" name="goToAddress" duration-ms="2362" started-at="2017-12-19T18:06:16Z" finished-at="2017-12-19T18:06:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToAddress -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.assignment4rth.ShoppingNG@44c8afef]" name="closeBrowser" is-config="true" duration-ms="2483" started-at="2017-12-19T18:06:18Z" finished-at="2017-12-19T18:06:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.assignment4rth.ShoppingNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
